@@ -1,0 +1,32 @@
+.my_nav_bar
+{
+    position: sticky ;
+    top:0;
+    z-index:99999 ;
+   align-items: flex-end ;
+ 
+}
+#Img-Main {
+
+width:100% ;
+    height:900px ;
+}
+#marquee {
+    color: aqua;
+    background-color: black;
+}
+
+#menu ul{
+ 
+    list-style: none;
+}
+#menu li{
+  display: inline-block;
+}
+
+#myNavbar {
+margin-left: 20% ;
+    
+    background-color: red;
+   font-size: 50px;;
+}
